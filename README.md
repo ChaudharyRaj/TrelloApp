@@ -1,3 +1,3 @@
 # TrelloApp
 
-live version of the application here: https://github.com/ChaudharyRaj/TrelloApp
+live version of the application here: https://chaudharyraj.github.io/TrelloApp/#/
